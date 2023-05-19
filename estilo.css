@@ -1,0 +1,11 @@
+table tr th, table tr td{
+    border: 0.5rem solid pink;
+    padding: 2.0rem;
+}
+table{
+    border-collapse: collapse;
+}
+
+section {
+    height: 100vh ;
+}
